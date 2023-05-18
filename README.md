@@ -14,4 +14,5 @@ All data in file "draw curve"
 - Values of the 6 joint angles
 - Values of end effector
 - Corresponding hardware
+
 Disadvantages: The design of the controller has not been carried out to ensure the accuracy of the work. The team will further improve it in the follow-up work.
