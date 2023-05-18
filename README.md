@@ -8,11 +8,11 @@ run "test_rbt_ik_main.m"
 All data in file "draw curve"
 - 4th: file "Draw curve" all result of data
 - 5th: file "Application_IK_simulink" for simulation based on MATLAB/Simulink.
--- M-DH parameters of the robot Arm
--- Robot Visual Simulation
---Block diagram of robot inverse kinematics controller
--- Values of the 6 joint angles
--- Values of end effector
--- Corresponding hardware
+  - M-DH parameters of the robot Arm
+  - Robot Visual Simulation
+  -Block diagram of robot inverse kinematics controller
+  - Values of the 6 joint angles
+  - Values of end effector
+  - Corresponding hardware
 
 Disadvantages: The design of the controller has not been carried out to ensure the accuracy of the work. The team will further improve it in the follow-up work.
